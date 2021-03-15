@@ -12,7 +12,7 @@
     <img src="logo_git.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"> Aplicação com exibição de notícias do New York - Teste UOL Compasso </h3>
+  <h3 align="center"> Aplicação com exibição de notícias do New York Times - Teste UOL Compasso </h3>
 
   <p align="center">
     Notícias de Ciência e Tecnologia consumidas da Api do New York Times
@@ -60,7 +60,10 @@
     <img src="emailfree.PNG" alt="Logo" width="1100" height="450">
   </a>
 </p>
-# Avaliação React Compasso
+
+Descrição do teste: https://github.com/rodrigo-oliveira-compasso/teste-react
+
+<img src="app.PNG" alt="Logo" width="1100" height="450">
 
 Essa foi uma aplicação utilizando a plataforma nodejs e framework reactjs. O backend serviu para basicamente fazer criar uma api que consume direto da api do NYT. Usado o cors para liberar a api para o frontend(a api do NYT poderia ser consumida diretamente do frontend).
 
@@ -69,7 +72,7 @@ O axios usei para realizar a conexão com a api do backend.
 
                                                              
 
-### Desenvolvido com
+### Desenvolvido com :
 
 Principais tecnologias: 
 * [React](https://reactjs.org/)
@@ -84,23 +87,20 @@ Principais Dependências:
 
 
 
-
-
 <!-- GETTING STARTED -->
 ## Iniciando
 
-
-Protótipo:https://xd.adobe.com/view/9a1ad5ef-25d2-42cb-9d55-aadd0be93ef2-cf49/
-
-Acesso a aplicação
+**Acesso a aplicação**
 Ao acessar http://localhost:3000
 
-Funcionalidades
+**Funcionalidades**
 1. Ao carregar o endereço http://localhost:3000 já estará com o título das notícias do NYT distribuídas em cartões dinamicamente;
 2. Para escolher o tipo de assunto das noticias que deseja visualizar(ciência ou Tecnologia), basta clicar no menu que fica no topo da página e selecionar o assunto desejado.
 3. Ao clicar no cartão da notícia irá abrir um modal com os seguinte dados: Título, assunto e a sua url da notícia.
 4. Para sair do modal, basta clicar em qualquer parte da tela
 
+**Veja o Protótipo:**
+ Veja o Protótipo :https://xd.adobe.com/view/9a1ad5ef-25d2-42cb-9d55-aadd0be93ef2-cf49/ 
 
 ### Pre requisitos
 
@@ -108,20 +108,21 @@ Funcionalidades
 
 ### Configuracao
 
-1. Faça o clone desse repositório 
- - Iniciando o Backend - 
+*Faça o clone desse repositório*
 
-2. Na pasta Backend executar o comando 
+**Iniciando o Backend**
+a)Na pasta Backend executar o comando:
+   ``` npm install  ```
+b)Assim que finalizar a instalação do node_modules, executar o comando:
    ``` npm start  ```
-
 O backend estará disponível no endereço: http://localhost:3333
 
-- Iniciando o Frontend -
-
-1. Na pasta Frontend/web executar o comando
+**Iniciando o Frontend**
+a) Na pasta Frontend/web executar o comando
+   ``` npm install  ```
+b)Assim que finalizar a instalação do node_modules, executar o comando:
    ``` npm start  ```
-
-Após feito essas etapas, o projeto poderá ser acessado: http://localhost:3000  
+Após feito essas etapas, o projeto poderá ser acessado nesse endereço: http://localhost:3000  
 
 
 
@@ -134,4 +135,18 @@ Link do Projeto: [https://github.com/FellipeCarvalho](https://github.com/Fellipe
 
 
 
-
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/fellipe-carvalho-6b688190
+[product-screenshot]: images/screenshot.png
