@@ -57,13 +57,12 @@
 ## Sobre o Projeto
 <p align="center">
   <a href='https://github.com/rodrigo-oliveira-compasso/teste-react'>
-    <img src='app-image' alt='image-app' width='1100' height='450'>
+    <img src='app-image.png' alt='image-app' width='1100' height='450'>
   </a>
 </p>
 
 Descrição do teste: https://github.com/rodrigo-oliveira-compasso/teste-react
 
-<img src="app.PNG" alt="Logo" width="1100" height="450">
 
 Essa foi uma aplicação utilizando a plataforma nodejs e framework reactjs. O backend serviu para basicamente fazer criar uma api que consume direto da api do NYT. Usado o cors para liberar a api para o frontend(a api do NYT poderia ser consumida diretamente do frontend).
 
