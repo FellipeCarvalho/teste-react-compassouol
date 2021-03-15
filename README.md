@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/FellipeCarvalho/teste-react-uolcompasso">
-    <img src="readme-image.png" alt="readme-image" width="80" height="80">
+    <img src="readme-image.PNG" alt="readme-image" width="80" height="80">
   </a>
 
   <h3 align="center"> Aplicação com exibição de notícias do New York Times - Teste UOL Compasso </h3>
