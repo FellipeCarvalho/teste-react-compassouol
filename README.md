@@ -107,16 +107,17 @@ Ao acessar http://localhost:3000
 
 *Faça o clone desse repositório*
 
-**Iniciando o Backend**
+**Iniciando o Backend :**
 I.Na pasta Backend executar o comando:
    ``` npm install  ```
 II.Assim que finalizar a instalação do node_modules, executar o comando:
    ``` npm start  ```
 O backend estará disponível no endereço: http://localhost:3333
 
-**Iniciando o Frontend**
+**Iniciando o Frontend :**
 I. Na pasta Frontend/web executar o comando
    ``` npm install  ```
+   
 II.Assim que finalizar a instalação do node_modules, executar o comando:
    ``` npm start  ```
 Após feito essas etapas, o projeto poderá ser acessado nesse endereço: http://localhost:3000  
