@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 <p align="center">
-  <img src='app-image.PNG' alt='image app' width='1200px' height='600px'>
+  <img src='app-image.PNG' alt='image app' width='245px' height='500px'>
 </p>
 
 Descrição do teste: https://github.com/rodrigo-oliveira-compasso/teste-react
