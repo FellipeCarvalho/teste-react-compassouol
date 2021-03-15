@@ -69,7 +69,7 @@ O axios usei para realizar a conexão com a api do backend.
 
                                                              
 
-### Desenvolvido com :
+### Desenvolvido com
 
 Principais tecnologias: 
 * [React](https://reactjs.org/)
