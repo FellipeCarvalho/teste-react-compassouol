@@ -62,9 +62,9 @@
 Descrição do teste: https://github.com/rodrigo-oliveira-compasso/teste-react
 
 
-Essa foi uma aplicação utilizando a plataforma nodejs e framework reactjs. O backend serviu para basicamente fazer criar uma api que consume direto da api do NYT. Usado o cors para liberar a api para o frontend(a api do NYT poderia ser consumida diretamente do frontend).
+Essa foi uma aplicação utilizando a plataforma nodejs e framework reactjs. O backend serviu para basicamente criar uma api que consome os dados da api do NYT, Usei o express para realizar essa tarefa. Usado o cors para liberar a api do backend para o frontend(a api do NYT poderia ser consumida diretamente do frontend, mas para fins de teste criado o backend).
 
-No front optei por utilizar o Styled components pelo fato de mapear melhor os componentes, embora possa parecer verboso, a manutenção pode ficar mais rápida.Usei algumas dependências para facilitar o tratamento de dados como o date-nfs que ajuda na manipulação de datas.
+No front optei por utilizar o Styled components pelo fato de mapear melhor os componentes, embora possa parecer verboso, a manutenção pode ficar mais rápida. Usei algumas dependências para facilitar o tratamento de dados como o date-nfs que ajuda na manipulação de datas.
 O axios usei para realizar a conexão com a api do backend.
 
                                                              
@@ -108,16 +108,16 @@ Ao acessar http://localhost:3000
 *Faça o clone desse repositório*
 
 **Iniciando o Backend**
-a)Na pasta Backend executar o comando:
+I.Na pasta Backend executar o comando:
    ``` npm install  ```
-b)Assim que finalizar a instalação do node_modules, executar o comando:
+II.Assim que finalizar a instalação do node_modules, executar o comando:
    ``` npm start  ```
 O backend estará disponível no endereço: http://localhost:3333
 
 **Iniciando o Frontend**
-a) Na pasta Frontend/web executar o comando
+I. Na pasta Frontend/web executar o comando
    ``` npm install  ```
-b)Assim que finalizar a instalação do node_modules, executar o comando:
+II.Assim que finalizar a instalação do node_modules, executar o comando:
    ``` npm start  ```
 Após feito essas etapas, o projeto poderá ser acessado nesse endereço: http://localhost:3000  
 
