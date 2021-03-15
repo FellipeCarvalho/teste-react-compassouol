@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/FellipeCarvalho/teste-react-uolcompasso">
-    <img src="logo_git.png" alt="Logo" width="80" height="80">
+    <img src="readme-image.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"> Aplicação com exibição de notícias do New York Times - Teste UOL Compasso </h3>
@@ -57,7 +57,7 @@
 ## Sobre o Projeto
 <p align="center>
   <a href='https://github.com/rodrigo-oliveira-compasso/teste-react'>
-    <img src="emailfree.PNG" alt="Logo" width="1100" height="450">
+    <img src="app-image" alt="Logo" width="1100" height="450">
   </a>
 </p>
 
