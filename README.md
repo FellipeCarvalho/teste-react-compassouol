@@ -88,12 +88,13 @@ Principais Dependências:
 ## Iniciando
 
 **Acesso a aplicação**
-Ao acessar http://localhost:3000
+
+Realizar os passos do tópico: **Configuração** desse Readme e na sequencia acessar http://localhost:3000.
 
 **Funcionalidades**
 1. Ao carregar o endereço http://localhost:3000 já estará com o título das notícias do NYT distribuídas em cartões dinamicamente;
 2. Para escolher o tipo de assunto das noticias que deseja visualizar(ciência ou Tecnologia), basta clicar no menu que fica no topo da página e selecionar o assunto desejado.
-3. Ao clicar no cartão da notícia irá abrir um modal com os seguinte dados: Título, assunto e a sua url da notícia.
+3. Ao clicar no cartão da notícia irá abrir um modal com os seguinte dados: Título, assunto e a url da notícia selecionada.
 4. Para sair do modal, basta clicar em qualquer parte da tela
 
 **Veja o Protótipo:**
@@ -128,7 +129,7 @@ I. Na pasta Frontend/web executar o comando
 II.Assim que finalizar a instalação do node_modules, executar o comando:
 
    ``` npm start  ```
-   
+
 Após feito essas etapas, o projeto poderá ser acessado nesse endereço: http://localhost:3000  
 
 
