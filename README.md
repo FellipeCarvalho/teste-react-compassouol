@@ -1,27 +1,27 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FellipeCarvalho/teste-react-uolcompasso?label=Size)
-![GitHub language count](https://img.shields.io/github/languages/count/FellipeCarvalho/teste-react-uolcompasso)
-![GitHub top language](https://img.shields.io/github/languages/top/FellipeCarvalho/teste-react-uolcompasso)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FellipeCarvalho/teste-react-compassouol?label=Size)
+![GitHub language count](https://img.shields.io/github/languages/count/FellipeCarvalho/teste-react-compassouol)
+![GitHub top language](https://img.shields.io/github/languages/top/FellipeCarvalho/teste-react-compassouol)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/FellipeCarvalho/teste-react-uolcompasso">
+  <a href="https://github.com/FellipeCarvalho/teste-react-compassouol">
     <img src="readme-image.png" alt="icon readme" width="80" height="80">
   </a>
 
-  <h3 align="center"> Aplicação com exibição de notícias do New York Times - Teste UOL Compasso </h3>
+  <h3 align="center"> Aplicação com exibição de notícias do New York Times - Teste Compasso UOL</h3>
 
   <p align="center">
     Notícias de Ciência e Tecnologia consumidas da Api do New York Times
     <br />
-    <a href="https://github.com/FellipeCarvalho/teste-react-uolcompasso/"><strong>Explore o conteúdo »</strong></a>
+    <a href="https://github.com/FellipeCarvalho/teste-react-compassouol/"><strong>Explore o conteúdo »</strong></a>
     <br />
     <br />
 <p align="center">
-    <a href="https://github.com/FellipeCarvalho/teste-react-uolcompasso/issues">Reporte Bugs</a>
+    <a href="https://github.com/FellipeCarvalho/teste-react-compassouol/issues">Reporte Bugs</a>
     ·
     <a href="https://api.whatsapp.com/send?phone=5541998290782&text=Ol%C3%A1%20Fellipe%2C%20gostaria%20de%20te%20dar%20o%20feedback%20sobre%20o%20seu%20Teste%20na%20UOL%20Compasso.">Envie seu feedback </a>
   </p>
@@ -139,7 +139,7 @@ Após feito essas etapas, o projeto poderá ser acessado nesse endereço: http:/
 
 Fellipe Carvalho - [https://br.linkedin.com/in/fellipe-carvalho-6b688190](https://br.linkedin.com/in/fellipe-carvalho-6b688190) - fellipealbert3@gmail.com
 
-Link do Projeto: [https://github.com/FellipeCarvalho](https://github.com/FellipeCarvalho/teste-react-uolcompasso)
+Link do Projeto: [https://github.com/FellipeCarvalho](https://github.com/FellipeCarvalho/teste-react-compassouol)
 
 
 
